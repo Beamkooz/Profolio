@@ -7,7 +7,7 @@ I am a fourth-year Chemical Engineering student from Faculty of Engineering, Dep
 I became more interested in data and did a thesis related to Machine Learning,so I really liked this field and wanted to work in this field a lot.
 
 My Skill :
-  1. Python (pandas, numpy, sklearn, matplotlib, seavborn)
+  1. Python
   2. R
   3. SQL
   4. Excel and Google Sheet
