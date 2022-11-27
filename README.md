@@ -3,6 +3,7 @@
 ## My Name is Nalin Amornratthamrong (Beam)
 
 I am a fourth-year Chemical Engineering student from Faculty of Engineering, Department of Chemical Engineering.
+
 I became more interested in data and did a thesis related to Machine Learning
 , So I really liked this field and wanted to work in this field a lot.
 
