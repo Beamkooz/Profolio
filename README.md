@@ -29,6 +29,7 @@ My Skill and Project :
     - The purpose is to use SQL to create database and query data.
     - Create a restaurant database consisting of 5 tables (1 fact table, 4 dimension table)
     - Analysis of monthly sales Analyze each branch's sales Popular menus for each branch sales per channel, etc.
+
   **4. Excel and Google Sheet**
   - The_Secret_Sauce_analysis
     - Propose : analysis Why the secret sauce is a successful poscast ?
@@ -39,6 +40,7 @@ My Skill and Project :
     - using function REGEXTRACT
   - Mini-Project_Convert TH to EN
     - REGEXTRACT, vlookup
+
   **5. Poewer BI**
   - Dashboard for Sales of Supermarket Store
     - Use Enphaty map to create dashboard (seeing, thinking, doing)
