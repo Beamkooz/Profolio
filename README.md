@@ -8,8 +8,8 @@ I became more interested in data and did a thesis related to Machine Learning,so
 
 My Skill :
   1. Python
-  
-  2. R
-  3. SQL
-  4. Excel and Google Sheet
-  5. Power BI
+  - Churn Prediction (Telco_Dataset) -Machine Learning model using KNN
+  3. R
+  4. SQL
+  5. Excel and Google Sheet
+  6. Power BI
