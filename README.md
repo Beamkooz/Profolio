@@ -23,6 +23,7 @@ My Skill and Project :
     - Create a Genetic Algorithm to find substance that fit the specify properties.
   **2. R**
   - Mini-project_basic-chat-bot
+
   **3. SQL**
   - Create restaurant mini databases
     - The purpose is to use SQL to create database and query data.
