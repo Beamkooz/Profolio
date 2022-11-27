@@ -1,6 +1,6 @@
 # Profolio Data science and Data Analyst
 
-My Name is Nalin Amornratthamrong (Beam)
+## My Name is Nalin Amornratthamrong (Beam)
 
 I am a fourth-year Chemical Engineering student from Faculty of Engineering, Department of Chemical Engineering.
 
@@ -8,6 +8,7 @@ I became more interested in data and did a thesis related to Machine Learning,so
 
 My Skill :
   1. Python
+  
   2. R
   3. SQL
   4. Excel and Google Sheet
