@@ -11,3 +11,4 @@ My Skill :
   2. R
   3. SQL
   4. Excel and Google Sheet
+  5. Power BI
