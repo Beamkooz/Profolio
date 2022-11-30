@@ -48,4 +48,6 @@ I became more interested in data and did a thesis related to Machine Learning
   - Dashboard for Sales of Supermarket Store
     - Use Enphaty map to create dashboard (seeing, thinking, doing)
     - With 5 chart to show problems and reasons of sales
+ - Dashboard for Sales of Food Retail
+    - link : https://app.powerbi.com/view?r=eyJrIjoiNmRiYmIwOWItZDRiOS00N2JmLWE4ZTktNTgzYWNmYjRjMDdiIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D 
 
