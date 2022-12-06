@@ -1,4 +1,4 @@
-# Profolio Data science and Data Analyst
+# Portfolio Data science and Data Analyst
 
 ## My Name is Nalin Amornratthamrong (Beam)
 
